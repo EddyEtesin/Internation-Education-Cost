@@ -11,8 +11,10 @@ The queries operate on a table named `International_Education_Costs$` which cont
 - Level (e.g., Master)
 - Tuition_USD
 - Rent_USD
+- Living_Cost_Index
 - Insurance_USD
 - Visa_Fee_USD
+- Exchange_Rate
 
 ## Query Analysis
 
