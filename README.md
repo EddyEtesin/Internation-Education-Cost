@@ -3,7 +3,7 @@
 This repository contains a collection of SQL queries analyzing international education costs across various countries, universities, and programs.
 
 ## Database Structure
-The queries operate on a table named `International_Education_Costs$` which appears to contain the following columns:
+The queries operate on a table named `International_Education_Costs$` which contains the following columns:
 - Country
 - City
 - University
